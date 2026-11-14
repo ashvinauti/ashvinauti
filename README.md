@@ -1,52 +1,27 @@
-# Hi, I'm Ashvin Auti 👋
+# Hi, I'm Ashvin Auti
 
-## 🛡️ Cybersecurity Engineer | Penetration Tester | AI Security Researcher
+**Junior Security Analyst** based in Hatfield, UK. MSc Cyber Security, University of Hertfordshire.
 
-🌍 Based in the **United Kingdom** &nbsp;|&nbsp; 🏢 Currently @ **Sprytech Ltd.**
+I focus on security monitoring and investigation: reviewing logs and alerts, writing KQL queries, and building small Python tools that help analysts work faster.
 
----
+## What I'm doing now
+- Developing security training content at Sprytech Ltd. (SOC operations, threat intelligence, SIEM, incident response)
+- Studying for Microsoft SC-200 (Security Operations Analyst)
+- Practising on Hack The Box
 
-## 🔭 What I'm Working On
-
-- 🧠 **SHAPnLIME / xai_ids** — Explainable AI system for network intrusion detection using SHAP + LIME  
-- 🛡️ **AIPCS-SOC** — AI-Powered Cybersecurity SOC course: threat intelligence, SIEM automation & incident response  
-- 📜 **CREST CRT** — Preparing for CREST Registered Tester certification via Hack The Box  
-
----
-
-## 🧰 Tech Stack
-
-**Languages:** Python 3.12 · Bash · TypeScript  
-**Security Tools:** Nmap · Metasploit · Burp Suite · Wireshark · OWASP  
-**AI / ML:** SHAP · LIME · Scikit-learn · Pandas · NumPy  
-**SOC / Blue Team:** SIEM · MITRE ATT&CK · Threat Intelligence · Incident Response  
-**Dev:** Git · Linux · Docker · VS Code  
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
+## Projects
+| Project | What it does | Stack |
 |---|---|---|
-| 🔒 [SecureP2P-Tool](https://github.com/ashvinauti/SecureP2P-Tool) | Encrypted peer-to-peer communication tool with end-to-end encryption | Python |
-| 🛡️ [AIPCS](https://github.com/ashvinauti/AIPCS) | AI-Powered SOC course lab materials — threat intel, SIEM & IR | Python · TypeScript |
+| [intelgraph_lite](https://github.com/ashvinauti/intelgraph_lite) | Correlates threat intelligence and OSINT indicators in a knowledge graph and produces explained risk scores | Python, SQLite, STIX 2.1, Docker |
+| [digital-chain-of-custody](https://github.com/ashvinauti/digital-chain-of-custody) | Tracks digital evidence custody with integrity checks, signed audit logs and PDF custody certificates | Python, Flask, PostgreSQL |
+| [AIPCS](https://github.com/ashvinauti/AIPCS) | Lab materials for a SOC course covering threat intelligence, SIEM and incident response | TypeScript |
 
----
+These projects were designed by me and built with AI coding assistance.
 
-## 🎓 Education & Certifications
+## Tools
+Microsoft Sentinel, KQL, Python, Bash, Wireshark, Nmap, Burp Suite, MITRE ATT&CK, Linux, Docker, Git
 
-- 🎓 **MSc Cyber Security** — University of Hertfordshire  
-- 📜 **CREST CRT** *(in progress)* — via Hack The Box  
-- 🤖 AI-Powered SOC & Threat Intelligence curriculum developer  
+## Contact
+[LinkedIn](https://linkedin.com/in/ashvinauti) · ashvinauti@gmail.com
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashvin_Auti-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashvinauti)
-[![Email](https://img.shields.io/badge/Email-ashvinauti@gmail.com-red?style=flat&logo=gmail)](mailto:ashvinauti@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ashvinauti-black?style=flat&logo=github)](https://github.com/ashvinauti)
-
----
-
-*🇬🇧 Open to Senior Penetration Tester & AI Security Research roles in the UK*
+*Open to SOC Analyst and Junior Security Analyst roles in the UK and Europe.*
